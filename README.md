@@ -3,6 +3,8 @@
 **YShorts Blocker** is a simple Chrome extension that removes **YouTube Shorts** from your feed.  
 Keep your YouTube experience clean and distraction-free! 🚀
 Tested on: Chrome 140.0.7339.185
+![Shorts](https://github.com/user-attachments/assets/ad4f511a-57fc-4973-9980-4bccf3315522)
+
 ---
 
 ## ✨ Features
@@ -13,7 +15,7 @@ Tested on: Chrome 140.0.7339.185
 ---
 
 ## 🚀 Installation
-
+![Extension](https://github.com/user-attachments/assets/eb8cb10f-40b6-40b8-b20f-7cd9bf34754c)
 1. Download or clone the extension files.  
 2. Open **Google Chrome**.  
 3. Go to: chrome://extensions
